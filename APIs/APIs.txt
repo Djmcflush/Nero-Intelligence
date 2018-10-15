@@ -1,0 +1,5 @@
+https://vr.google.com/cardboard/developers/  ##the documentation page for Google VR
+https://developers.google.com/vr/develop/unity/get-started-android ##SDK for Unity with Android
+https://developers.google.com/vr/develop/unreal/get-started ##SDK for UNreal engine
+https://developers.google.com/vr/reference/ ## google VR SDK for unity API's
+https://dialogflow.com/  ## chat bot
