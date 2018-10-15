@@ -1,7 +1,0 @@
-https://vr.google.com/cardboard/developers/  ##the documentation page for Google VR
-https://developers.google.com/vr/develop/unity/get-started-android ##SDK for Unity with Android
-https://developers.google.com/vr/develop/unreal/get-started ##SDK for UNreal engine
-https://developers.google.com/vr/reference/ ## google VR SDK for unity API's
-https://dialogflow.com/  ## chat bot
-https://hackernoon.com/how-to-make-a-vr-app-with-zero-experience-927438e2dede ## Sample space VR getting started
-https://www.youtube.com/watch?v=BN0okzfjSp8 ## adobe creative cloud 
